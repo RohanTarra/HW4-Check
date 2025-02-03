@@ -90,7 +90,7 @@ where \( P \) represents citizen participation over time, and \( \alpha \) is a 
 
 ---
 
-## Conceptual Diagram: Feedback Loop in Governance
+## Conceptual Diagram: Feedback Loop in Governance.
 
 ```mermaid
 graph TD

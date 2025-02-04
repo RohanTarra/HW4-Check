@@ -145,14 +145,28 @@ Stakeholders with higher centrality scores have greater influence in shaping pol
 ---
 
 ### 4. Significance of the Work
-
 #### Key Findings and Contributions
-- **Multi-Level Coordination:** The study highlights the role of **Transformation Rooms** in fostering **multi-level governance**, facilitating coordination between **local, regional**, and **national** stakeholders.
-- **Technological Integration:** The integration of **AI**, **IoT**, and **blockchain** within governance frameworks improves **transparency**, **accountability**, and **efficiency**.
-- **Scalability of Innovations:** The study demonstrates how **local pilot projects** can be scaled into **institutional urban policies** using TRs, making **innovative governance models** more widely applicable.
+
+- **Multi-Level Coordination:** This study emphasizes the critical role of **Transformation Rooms (TRs)** in fostering **multi-level governance**. By promoting collaboration and coordination between **local, regional**, and **national** stakeholders, TRs ensure that urban policies are both responsive to local needs and aligned with broader national or international objectives. This coordination leads to **greater policy coherence** and ensures that different governance levels can effectively address complex urban challenges.
+
+- **Technological Integration:** The study demonstrates the power of integrating advanced **digital governance tools**—such as **artificial intelligence (AI)**, **Internet of Things (IoT)**, and **blockchain**—into urban policy-making. These technologies enhance **transparency**, **accountability**, and **efficiency** in governance processes. For example, AI can analyze large datasets to inform real-time decision-making, IoT sensors enable continuous monitoring of urban systems, and blockchain ensures the integrity and traceability of policy decisions, fostering public trust.
+
+- **Scalability of Innovations:** The research highlights how **local pilot projects** can be transitioned into **institutional urban policies** using TRs. This ability to scale up innovations is crucial for making **new governance models** widely applicable across different cities. By establishing structured pathways for scaling, TRs enable successful urban innovations—such as smart mobility solutions or energy-efficient housing—to be expanded beyond their initial pilot areas and integrated into long-term urban strategies.
 
 #### Implications for Future Research or Practice
-This study opens new avenues for future research on **digital governance tools**, **participatory models**, and **multi-level governance integration**. It also has practical implications for **policy-making** by showcasing the potential of **TRs** in improving **urban resilience** and **sustainability**.
+
+This study opens several exciting avenues for **future research** and offers substantial implications for **urban governance practices**:
+
+- **Digital Governance Tools:** Future research can focus on the integration and impact of **advanced digital tools** (AI, IoT, blockchain, big data) within urban governance frameworks. How can these technologies be further developed and integrated to improve **policy responsiveness** and **resource allocation** in real-time urban management?
+
+- **Participatory Models:** The paper highlights the need for more research into **participatory governance models** that empower citizens and communities to co-create urban policies. How can **grassroots initiatives** be scaled and institutionalized within larger governance frameworks without losing their local relevance?
+
+- **Multi-Level Governance Integration:** The concept of **multi-level governance** within TRs opens the door to further investigation on how **local, regional, and national** authorities can work together more effectively. How can these governance levels be better synchronized to improve urban resilience and adaptability to challenges like climate change, economic disparities, and urbanization?
+
+- **Practical Implications for Policy-making:** The TRs framework has significant real-world applications in improving **urban resilience** and **sustainability**. It offers policymakers a clear, structured model for integrating diverse stakeholder interests, leveraging technological tools, and scaling innovative urban solutions. By incorporating TRs, cities can become more **adaptive** to future challenges, ensuring **long-term sustainability** and **inclusivity**.
+
+- **Enhancing Urban Resilience:** The TRs model can serve as a blueprint for cities to develop **adaptive, resilient governance systems**. Future research could explore how **TRs** can be implemented across different **geographical contexts** and **cultural settings**, testing their effectiveness in building **resilient urban infrastructures** and ensuring that cities are prepared for both **short-term disruptions** and **long-term sustainability** challenges.
+
 
 ---
 

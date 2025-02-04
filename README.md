@@ -172,7 +172,14 @@ This study opens several exciting avenues for **future research** and offers sub
 
 ### Connection to Other Work
 
-This paper builds on existing research in **smart cities**, **urban governance**, and **participatory planning**. Studies by **Liu et al. (2020)** and **Schwab (2017)** focus on the role of **technology** and **stakeholder participation** in urban governance but often treat them in isolation. This paper bridges these elements by introducing **Transformation Rooms (TRs)**, a framework that integrates **top-down governance** with **bottom-up innovations**. Unlike previous works, it combines **AI-driven tools** and **multi-level governance**, presenting a **holistic** solution for scalable, adaptable urban systems. It references seminal works like **Sager (2017)** on urban policy integration.
+This paper builds upon existing research in **smart cities**, **urban governance**, and **participatory planning**. While prior studies such as those by **Liu et al. (2020)** and **Schwab (2017)** have explored the roles of **technology** and **stakeholder participation** in urban governance, they often treat these factors as separate elements. Liu et al. (2020) focused on the application of **smart technologies** in urban contexts, while Schwab (2017) discussed the significance of **stakeholder engagement** in creating sustainable urban environments. However, these studies do not adequately address how these two elements can be integrated within a single governance framework.
+
+This paper introduces **Transformation Rooms (TRs)**, a novel framework that bridges these gaps by integrating **top-down governance** with **bottom-up innovations**. TRs allow for a more **holistic approach** to urban governance by facilitating the **collaboration** of government authorities, private sector actors, and citizens, ensuring that all perspectives are considered when designing urban policies. By combining **AI-driven tools**, **IoT**, and **blockchain technologies** with **multi-level governance**, TRs provide a dynamic and adaptable model for urban systems.
+
+Unlike earlier works, which primarily focused on **isolated solutions** for urban challenges, this study brings together the technological and participatory aspects of urban governance. It presents a **scalable** model for integrating localized innovations into broader urban policy frameworks. The paper also references seminal works like **Sager (2017)**, who discussed **urban policy integration** and how urban governance models can be more **inclusive** and **collaborative** across different governance levels.
+
+Overall, this research advances the conversation on **urban governance** by offering a framework that **combines technological integration with participatory processes**, positioning TRs as a critical tool for **future urban resilience**.
+
 
 ---
 

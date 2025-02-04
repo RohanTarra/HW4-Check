@@ -15,8 +15,8 @@ The literature's void focuses on how **multi-level governance frameworks** may c
 2. The scalability of urban innovations is limited.
 3. Inflexible governance frameworks that are not adaptable in real time.
 4. The use of digital governance tools to promote change is underutilized.
-5. 
-These gaps are filled by the implementation of **Transformation Rooms (TRs)**, which offer a platform for **real-time collaboration** and allow cities to use **digital governance tools** to bridge local experiments with **institutional policymaking**.
+5. These gaps are filled by the implementation of **Transformation Rooms (TRs)**, which offer a platform for **real-time collaboration** and allow cities to use **digital governance tools** to bridge local experiments with **institutional policymaking**.
+
 
 #### Importance of the Research Question
 Designing governance systems that are **participatory**, **scalable**, and **adaptive** is the main focus of the research question, *How can Transformation Rooms enhance urban transformative capacity?*. This study is essential for creating **inclusive governance** frameworks that incorporate **citizen-led** projects.

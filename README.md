@@ -156,6 +156,12 @@ This study opens new avenues for future research on **digital governance tools**
 
 ---
 
+### Connection to Other Work
+
+This paper builds on existing research in **smart cities**, **urban governance**, and **participatory planning**. Studies by **Liu et al. (2020)** and **Schwab (2017)** focus on the role of **technology** and **stakeholder participation** in urban governance but often treat them in isolation. This paper bridges these elements by introducing **Transformation Rooms (TRs)**, a framework that integrates **top-down governance** with **bottom-up innovations**. Unlike previous works, it combines **AI-driven tools** and **multi-level governance**, presenting a **holistic** solution for scalable, adaptable urban systems. It references seminal works like **Sager (2017)** on urban policy integration.
+
+---
+
 ### Relevance to Your Research
 
 The **Transformation Rooms (TRs)** model is highly relevant to your capstone project, which explores key themes of **urban planning**, **smart cities**, and **governance adaptability**. The TRs framework provides a comprehensive solution for addressing complex urban challenges, making it a valuable resource for your research. As your project focuses on integrating **technological innovations** with **participatory urban planning** and ensuring the scalability of urban transformation initiatives, TRs offer a structured mechanism that bridges these elements effectively.

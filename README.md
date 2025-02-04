@@ -1,6 +1,6 @@
 # Transformation Rooms: Building Transformative Capacity for European Cities
 
-## Summary and Analysis
+## Summary and Analysis.
 
 ### 1. Background/Motivation
 

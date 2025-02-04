@@ -162,13 +162,9 @@ This study opens new avenues for future research on **digital governance tools**
 The introduction of **Transformation Rooms** (TRs) as a governance innovation represents a major leap in how cities can integrate **technological tools** and **participatory models** to create more **adaptive**, **resilient**, and **scalable** urban governance systems. The study’s **mathematical models**, such as **Monte Carlo simulations**, **Bayesian decision models**, and **regression analyses**, provide robust tools for **quantifying policy success** and **stakeholder influence**, offering a deeper understanding of how cities can manage the **complexity** of urban governance challenges in the 21st century.
 
 ---
-graph LR
-A[Local Government] -->|Collaborates with| B[Citizens]
-A -->|Supports| C[Businesses]
-B -->|Participates in| D[Research & Innovation]
-C -->|Innovates with| D
-B -->|Co-creates with| C
-D -->|Provides Data| A
+
+![image](https://github.com/user-attachments/assets/cc278740-5f49-47b4-b79b-4d8e2f49bac0)
+
 
 
 
